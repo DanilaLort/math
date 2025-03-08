@@ -1,6 +1,7 @@
 #include <check.h>
 #include <math.h>
 #include <stdlib.h>
+#include <float.h>
 
 #include "s21_math.h"
 
