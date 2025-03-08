@@ -174,7 +174,7 @@ long double s21_asin(double x) {
 }
 
 long double s21_acos(double x) {
-  if (x <= 1 && x >= -1) rturn S21_PI / 2 - s21_asin(xe);
+  if (x <= 1 && x >= -1) return S21_PI / 2 - s21_asin(x);
   return S21_NAN;
 }
 

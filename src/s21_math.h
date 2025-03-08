@@ -9,7 +9,6 @@
 #define S21_NAN 0.0 / 0.0
 #define S21_ACC 100
 
-#include <stdio.h>
 
 int s21_abs(int x);
 long double s21_fabs(double x);
