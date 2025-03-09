@@ -481,7 +481,7 @@ START_TEST(exp_test_12) {
 }
 END_TEST
 
-Suite *s21_exp_suite(void) {
+Suite *test_suite(void) {
     Suite *s;
     TCase *tc;
 
